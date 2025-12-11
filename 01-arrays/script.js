@@ -43,5 +43,3 @@ const isTeachersEmpty = teachers.lenght === 0;
 
   console.log(isTeachersEmpty)
 
-
-console.log(teachers)
